@@ -85,7 +85,7 @@ content:
         quote: >
           Resolver los problemas de servcio en distintas secciones de las naves para el optimo funcionamiento. 
         description: | # this will include new lines to allow paragraphs
-            Toda compañia no esta absuelta de los problemas comunes en sus servicios, yo en un equipo de 5 personas resolviamos las inquietudes del peronal para que puedieran llevar a cabo su labor
+            --------------------------Toda compañia no esta absuelta de los problemas comunes en sus servicios, yo en un equipo de 5 personas resolviamos las inquietudes del peronal para que puedieran llevar a cabo su labor
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
