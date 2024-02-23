@@ -69,7 +69,7 @@ content:
              icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Fue un programa pedido con fines didacticos para el uso y desarrollo de las hailidades basicas obtenidas a travez de la curriculam de INNI 
+          Fue un programa pedido con fines didacticos para el uso y desarrollo de las hailidades basicas obtenidas a travez de la curriculam de INNI.
         description: | # this will include new lines to allow paragraphs
           Se da como un sistema que incluye diversos lenguajes de promagramacion asi como habliadades de Database destro de los cuales se encuentran, PHP, CSS, JavaScrip y HTML. A grandes rasgos es la implementacion especializada a una rama de la medicina para el optimo desempeño de usuario, administrador y doctor. 
 
