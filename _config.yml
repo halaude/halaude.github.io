@@ -54,24 +54,24 @@ about_content: | # this will include new lines to allow paragraphs
   Soy más hábil con: <mark>C++</mark> , <mark>HTML</mark>, <mark>CSS</mark>,  <mark>Database</mark> y <mark>Linux</mark>. 
 
 content:
-  #- title: Projects # Title for the section
-    #layout: list # Type of content section (list/text)
-    #content:
-     # - layout: top-middle
-   #     title: Desarrollo de sistema y pagina web.
-        #link: github.com/sproogen
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Desarrollo de sistema y pagina web.
+        link: github.com/sproogen
         # link_text: Project Website
-    #    additional_links:
-     #     - title:  sproogen/modern-resume-theme
-            #icon: fab fa-github
-            #url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-      #  quote: >
-       #   Fue un programa pedido con fines didacticos para el uso y desarrollo de las hailidades basicas obtenidas a travez de la curriculam de INNI 
-       # description: | # this will include new lines to allow paragraphs
-        #  Se da como un sistema que incluye diversos lenguajes de promagramacion asi como habliadades de Database destro de los cuales se encuentran, PHP, CSS, JavaScrip y HTML. A grandes rasgos es la implementacion especializada a una rama de la medicina para el optimo desempeño de usuario, administrador y doctor. 
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+             icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Fue un programa pedido con fines didacticos para el uso y desarrollo de las hailidades basicas obtenidas a travez de la curriculam de INNI 
+        description: | # this will include new lines to allow paragraphs
+          Se da como un sistema que incluye diversos lenguajes de promagramacion asi como habliadades de Database destro de los cuales se encuentran, PHP, CSS, JavaScrip y HTML. A grandes rasgos es la implementacion especializada a una rama de la medicina para el optimo desempeño de usuario, administrador y doctor. 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -85,7 +85,7 @@ content:
         quote: >
           Resolver los problemas de servcio en distintas secciones de las naves para el optimo funcionamiento. 
         description: | # this will include new lines to allow paragraphs
-            Toda compañia no esta absuelta de los problemas comunes en sus servicios, yo en un equipo de 5 personas resolviamos las inquietudes del peronal para que puedieran llevar a cabo su labor.
+            Toda compañia no esta absuelta de los problemas comunes en sus servicios, yo en un equipo de 5 personas resolviamos las inquietudes del peronal para que puedieran llevar a cabo su labor
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
